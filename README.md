@@ -1,4 +1,4 @@
-# T-FLIPFLOP-POSEDGE
+T-FLIPFLOP-POSEDGE
 
 **AIM:**
 
@@ -44,9 +44,8 @@ From the above characteristic table, we can directly write the next state equati
 
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
-## Developed by: SHRIRAM VR
-## RegisterNumber:21224040314
-*/
+## Developed by: Madhumitha.B
+## RegisterNumber:21224050018
 
 **PROGRAM**
 
